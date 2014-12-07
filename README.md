@@ -1,4 +1,4 @@
 SCScheduler
 ===========
 
-adding scheduling to SelfControl
+adding rudimentary AppleScript scheduling to SelfControl
